@@ -5,7 +5,7 @@
 #include <map>
 
 /*	there should only be one game instance
-	but as singletons are evil, let the user of it manage it
+	but as singletons are evil, let the user of it manage it, maybe
 */
 
 
